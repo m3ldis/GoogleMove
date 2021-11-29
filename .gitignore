@@ -5,7 +5,7 @@ zd_ticket_fields
 ids.csv
 manual_fixes.txt
 folder_cache.json
-.idea
+.idea/*
 venv
 .DS_STORE
 out.log
