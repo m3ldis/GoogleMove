@@ -1,0 +1,8 @@
+zendesk_user = '{user}@{domain.org}/token'
+zendesk_user_id = '1234356'
+zendesk_token = 'api_token_1234567'
+zendesk_url = 'https://subdomain.zendesk.com/api/v2'
+zendesk_tickets_ep = 'tickets'
+zendesk_users_ep = 'users'
+zendesk_ticket_fields_ep = 'ticket_fields'
+default_permissionid = 'Google Drive API permission ID'
