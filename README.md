@@ -2,7 +2,7 @@
 # About this project
 
 ## What it does
-This is a series of functions that uses the Google API to move stuff around. It handles folder recursion and moves all files under one "ticket folder" in a personal Google Drive folder to a folder in the shared Drive (you can't move folders...see below). Some folders needed to be renamed in the move, so a folder map is referenced to rename those as they are moved.
+This is a series of functions that uses the Google API to move stuff around. It recursively moves all folders and files under a folder into a Shared Drive, since you can't move folders to shared Drives (see below). Some folders needed to be renamed in the move, so a folder map is referenced to rename those as they are moved.
 
 There is also a set of functions to handle a few basic Zendesk actions. 
 
